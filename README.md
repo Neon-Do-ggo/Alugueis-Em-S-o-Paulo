@@ -41,6 +41,10 @@ Preço médio: 509.0
 # Comparação do Valor do Aluguel
 - Imoveis que são apartamentos tendem a serem mais caros que os demais como casa, kitnet e studio
 - Tem mais apartamentos e casas do que kitnet e studios
+# Graficos
+- Grafico 1=
+- Grafico 2=
+- Grafico 3=
 # Conclusão
 - A media é mais cara que a mediana que isso pode ter influência dos imóveis caros
 - Mais vagas de garagem tendem a aparecer em apartamentos ou casa de condominios
