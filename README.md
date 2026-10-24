@@ -2,17 +2,18 @@
 O que cada coluna utilizada representa?
 - Endereço(Adress)= Rua que se localiza
 - Distrito(District)= Bairro onde se localiza
-- Area(Area)= Tamanho do terreno
+- Area(Area)= Tamanho do terreno por metros quadrados
 - Quartos(Bedroom)= Quantidade de quartos presentes
-- Garagem(Garare)= Quantidade de garagens presentes
-- Tipo(Type)= Tipo da construção para alugar(Casa, Apartamento, Kitnet)
+- Garagem(Garare)= Quantidade de vagas de garagem
+- Tipo(Type)= Tipo do imóvel(Casa, Apartamento, Kitnet)
 - Aluguel(Rent)= Valor do aluguel
-- Total(Total)= Preço total com mais um pouco de juros
+- Total(Total)= Preço total definido pelo dataset
 # Quantidade de Linhas e Colunas
 - 11657 linhas e 8 colunas
 # Valores ausentes, registros repetidos ou Valores que Parecem inconsistentes
 - Dentre todos os registros não foi encontrado um único erro, estava tudo correto
 # Tomadas de decisões na preparação dos dados
+Nenhuma alteração foi necessaria
 # Media e Mediana nos preços
 - Media= 4080.030625375311
 - Mediana= 3057.0
@@ -38,8 +39,13 @@ Preço médio: 20380.0
 Local com menor preço médio: Jardim Jaçanã
 Preço médio: 509.0
 # Comparação do Valor do Aluguel
--
--
+- Imoveis que são apartamentos tendem a serem mais caros que os demais como casa, kitnet e studio
+- Tem mais apartamentos e casas do que kitnet e studios
 # Conclusão
+- A media é mais cara que a mediana que isso pode ter influência dos imóveis caros
+- Mais vagas de garagem tendem a aparecer em apartamentos ou casa de condominios
+- Imóveis em locais que são mais valorizados ficam mais caros
+- Imóveis que são casas e apartamentos são mais valorizados
+- Dependendo da sua área ele pode ter um preço mais elevado, porem dependendo ainda do local e condições do imóvel
 # Quais caracteristicas parecem acompanhar os maiores e os menores preços de aluguel e o que os dados não permitem concluir?
-Os valores aumentam baseado na localização que se encontra como tambem o tipo dela, se é casa ou apartamento e esses dados não permitem concluir as condições do local 
+Os valores aumentam baseado na localização que se encontra como tambem o tipo dela, se é casa ou apartamento e esses dados não permitem concluir as condições do local, como tambem foi notado que nem sempre uma area ou o numero de quartos ou garagem fazem o preço aumentar, mas sim pela condição e localização como foi dito
