@@ -18,6 +18,7 @@ Nenhuma alteração foi necessaria
 - Media= 4080.030625375311
 - Mediana= 3057.0
 - Por que podem ser diferentes?
+  Por causa de um ser a media de todos os valores enquanto o outro apresentar a mediana que é o termo que mais se repetiu
 # Locais com maiores e menores preços médios
 Distritos
 - Jardim Jaçanã            =             509.0
