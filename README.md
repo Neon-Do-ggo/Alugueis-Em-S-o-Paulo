@@ -26,7 +26,7 @@ Distritos
 - Jardim Inga              =             671.0
 - Jardim Frei Galvão       =             678.0
 - Vila Lais                =             686.0
-                                      ...   
+-                                      ...   
 - Jardim Vitoria Regia (zona Oeste)  = 16480.0
 - Jardim Cordeiro                    = 16670.0
 - Alphaville Residencial Dois        = 17410.0
