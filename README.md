@@ -8,6 +8,8 @@ O que cada coluna utilizada representa?
 - Tipo(Type)= Tipo do imóvel(Casa, Apartamento, Kitnet)
 - Aluguel(Rent)= Valor do aluguel
 - Total(Total)= Preço total definido pelo dataset
+# AVISO PREVIO
+(DADOS USADOS NESSE PROJETO FOI COM O USO DE IA [INTELIGENCIA ARTIFICIAL] OU SEJA O GRAFICO E AO SABER DETERMINADOS CODIGOS FORAM TOTALMENTE PESQUISADOS)
 # Quantidade de Linhas e Colunas
 - 11657 linhas e 8 colunas
 # Valores ausentes, registros repetidos ou Valores que Parecem inconsistentes
@@ -43,9 +45,9 @@ Preço médio: 509.0
 - Imoveis que são apartamentos tendem a serem mais caros que os demais como casa, kitnet e studio
 - Tem mais apartamentos e casas do que kitnet e studios
 # Graficos
-- Grafico 1=
-- Grafico 2=
-- Grafico 3=
+- Grafico 1= Distribuição de Preços de Aluguel
+- Grafico 2= 10 maiores distritos com maiores aluguéis médios 
+- Grafico 3= Relação entre área e preço do aluguel
 # Conclusão
 - A media é mais cara que a mediana que isso pode ter influência dos imóveis caros
 - Mais vagas de garagem tendem a aparecer em apartamentos ou casa de condominios
